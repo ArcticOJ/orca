@@ -1,4 +1,4 @@
-module orca
+module github.com/ArcticOJ/orca/v0
 
 go 1.21
 

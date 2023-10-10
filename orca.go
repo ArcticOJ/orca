@@ -1,9 +1,9 @@
 package orca
 
 import (
-	"blizzard/config"
-	"blizzard/logger"
 	"context"
+	"github.com/ArcticOJ/blizzard/v0/config"
+	"github.com/ArcticOJ/blizzard/v0/logger"
 	"github.com/bwmarrin/discordgo"
 	"strings"
 )
